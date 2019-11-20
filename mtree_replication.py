@@ -11,14 +11,14 @@ import os
 #source:
 
 mtree_name='JJJJ'             #Mtree name - a non-existing one
-source = '10.246.168.131'     #external dd management address for source
-username = 'sysadmin'         #login name in DD for IP: 10.246.168.131
-pswd = 'Just4Eng1'             #password for the above login name
+source = 'x.x.x.x'     #external dd management address for source
+username = 'xxxx'         #login name in DD for IP: 10.246.168.131
+pswd = 'xxxx'             #password for the above login name
 
 #destination:
-destination ='10.246.170.162' #external dd management address for destination
-username2 = 'sysadmin'        #login name in DD for IP: 10.246.170.162
-pswd2 = 'Just4Eng&Use'        #password for the above login name
+destination ='x.x.x.x' #external dd management address for destination
+username2 = 'xxxx'        #login name in DD for IP: 10.246.170.162
+pswd2 = 'xxxx'        #password for the above login name
 
 
 #----EDIT THIS-----------^^^^

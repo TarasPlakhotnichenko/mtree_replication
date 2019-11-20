@@ -15,14 +15,14 @@ use Socket;
 #----EDIT THIS-----------VVVV
 #source:
 my $mtree_name='HHH';             #Mtree name - a non-existing one
-my $source ='10.246.168.131';     #external dd management address for source 
-my $username = "sysadmin";        #login name in DD for IP: 10.246.168.131
-my $pswd = "Just4Eng";            #password for the above login name
+my $source ='x.x.x.x';     #external dd management address for source 
+my $username = "xxxx";        #login name in DD for IP: 10.246.168.131
+my $pswd = "xxxx";            #password for the above login name
 
 #destination:
-my $destination='10.246.170.162'; #external dd management address for destination
-my $username2 = "sysadmin";       #login name in DD for IP: 10.246.170.162
-my $pswd2 = "Just4Eng&Use";       #password for the above login name
+my $destination='x.x.x.x'; #external dd management address for destination
+my $username2 = "xxxx";       #login name in DD for IP: 10.246.170.162
+my $pswd2 = "xxxx";       #password for the above login name
 
 #----EDIT THIS-----------^^^^
 
